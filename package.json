@@ -1,0 +1,20 @@
+{
+  "name": "madd",
+  "version": "0.0.4",
+  "description": "Npm module that adds random numbers",
+  "main": "index.js",
+  "scripts": {
+   "test": "grunt mochaTest"
+  },
+   "repository": {
+    "type": "git",
+    "url": "https://github.com/marianeaj/madd.git"
+  },
+  "author": "marianeaj",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.4.0",
+    "grunt": "^0.4.5",
+    "mocha": "^2.3.3"
+  }
+}

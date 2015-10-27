@@ -1,0 +1,5 @@
+.DS_Store
+.standard-release-context
+coverage.html
+npm-debug.log
+/node_modules
